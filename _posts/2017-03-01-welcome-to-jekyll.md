@@ -8,12 +8,11 @@ Hi, I am Li Zhang, a Ph.D. candidate in Economics at the [Chinese University of 
 My research interests lie in labor economics, development economics, and economics of education. 
 
 **Contact:**
+
 [lizhang@link.cuhk.edu.hk][email]
+
 1017 Esther Lee Building, the Chinese University of Hong Kong, Shatin, Hong Kong
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-[cuhk]:https://www.cuhk.edu.hk
-[ruc]:https://www.ruc.edu.cn
+[cuhk]:https://www.econ.cuhk.edu.hk
+[ruc]:https://ae.ruc.edu.cn
 [email]:mailto:lizhang@link.cuhk.edu.hk
