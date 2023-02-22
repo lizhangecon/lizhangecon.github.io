@@ -6,7 +6,7 @@ layout: page
 
 ## Working Papers
 
- - supports dark mode on macOS Mojave
+ 1. supports dark mode on macOS Mojave
 
 ## Work in Progress
 
