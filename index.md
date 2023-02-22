@@ -3,9 +3,9 @@ title: "Home"
 layout: page
 ---
 
-## Welcome to My Page!
+<img src="/webpage_picture.png" width="300" height="300">
 
-![screenshot](/webpage_picture.png)
+## Welcome to My Page!
 
 Hi, I am Li Zhang, a Ph.D. candidate in Economics at the [Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk) (CUHK). I received my Bachelor's and Master's Degrees in Economics from [Renmin University of China](https://ae.ruc.edu.cn) (RUC).
 
