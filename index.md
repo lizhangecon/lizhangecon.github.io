@@ -1,7 +1,9 @@
 ---
-title: "Welcome to My Page!"
+title: "Home"
 layout: page
 ---
+
+## Welcome to My Page!
 
 ![screenshot](https://github.com/lizhangecon/lizhangecon.github.io/blob/master/webpage_picture.jpg)
 
