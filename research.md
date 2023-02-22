@@ -3,12 +3,10 @@ title: "Research"
 layout: page
 ---
 
-<font face="仿宋" color=red size=4>这是红色4号宋体</font>
-
 ## Working Papers
 
 1. Is a Better School Better for All? Evidence from Elite Education in China (with Lunyu Xie). Available at SSRN: [http://ssrn.com/abstract=4038574](http://ssrn.com/abstract=4038574)
-    - <font size = 5>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
+    - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
  
 
 ## Work in Progress
@@ -19,7 +17,7 @@ layout: page
 ## Publications
 
 1. Across a Few Prohibitive Miles: The Impact of the Anti-Poverty Relocation Program in China (with Lunyu Xie and Xinye Zheng). 2023. **_Journal of Development Economics_**, 160, 102945.
-    - previously circulated entitled "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"
+    - <font size = 2>previously circulated entitled "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"</font>
 
 ### Pre-Doctoral Publications
 
