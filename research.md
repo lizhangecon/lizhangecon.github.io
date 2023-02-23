@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. Is a Better School Better for All? Evidence from Elite Education in China (with Lunyu Xie). Available at SSRN: [http://ssrn.com/abstract=4038574](http://ssrn.com/abstract=4038574)
+1. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with Lunyu Xie).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
  
 
