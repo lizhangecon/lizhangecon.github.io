@@ -17,7 +17,7 @@ layout: page
 ## Publications
 
 1. [Across a Few Prohibitive Miles: The Impact of the Anti-Poverty Relocation Program in China](https://doi.org/10.1016/j.jdeveco.2022.102945) (with Lunyu Xie and Xinye Zheng). 2023. **_Journal of Development Economics_**, 160, 102945.
-    - <font size = 2>previously circulated entitled "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"</font>
+    - <font size = 2>previously circulated as "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"</font>
 
 ### Pre-Doctoral Publications
 
