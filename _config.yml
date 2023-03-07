@@ -2,7 +2,7 @@ title: "张力 Li Zhang"
 author: "lizhang"
 description: "The Chinese University of Hong Kong"
 permalink: /:title/
-lang: "en"
+lang: "zh-Hans"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
