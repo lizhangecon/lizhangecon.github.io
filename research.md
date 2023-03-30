@@ -7,7 +7,7 @@ layout: page
 
 1. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with Lunyu Xie).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
-    - <font size = 2>presented: 2023 WEAI International Conference (scheduled); 2022 AASLE; 2021 Symposium on Contemporary Labor Economics; 2021 China Meeting of the Econometric Society; 2021 CES Annual Conference</font>
+    - <font size = 2>presented: 2023 WEAI International Conference (scheduled); 2022 AASLE; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
  
 
 ## Work in Progress
@@ -15,7 +15,7 @@ layout: page
 1. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
     - <font size = 2>presented: 2023 CES North American Conference*</font>
 2. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
-    - <font size = 2>presented: 2023 China Economics Annual Conference (scheduled); 2023 CES North American Conference*</font>
+    - <font size = 2>presented: 2023 China Economics Annual Conference (scheduled); 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
 
 ## Publications
 
