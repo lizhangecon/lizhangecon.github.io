@@ -13,7 +13,7 @@ layout: page
 ## Work in Progress
 
 1. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
-    - <font size = 2>presented: 2023 CES North American Conference*</font>
+    - <font size = 2>presented: 2023 WEAI International Conference (scheduled); 2023 CES North American Conference*</font>
 2. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
     - <font size = 2>presented: 2023 China Economics Annual Conference (scheduled); 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
 
