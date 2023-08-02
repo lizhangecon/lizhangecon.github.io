@@ -5,17 +5,20 @@ layout: page
 
 ## Working Papers
 
-1. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with Lunyu Xie).
+1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**, with Naijia Guo and Ben Zou)
+2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with Lunyu Xie).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
-    - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
+    - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
  
 
 ## Work in Progress
 
-1. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
+1. Job Dynamics and Life-Cycle Wage Growth (with Naijia Guo and Ben Zou)
+2. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
     - <font size = 2>presented: 2023 AMES-Tsinghua (scheduled); 2023 WEAI International Conference; 2023 CES North American Conference*</font>
-2. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
+3. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
     - <font size = 2>presented: 2023 CES Annual Conference* (scheduled); 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
+4. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with Suqin Ge, Naijia Guo, Zibin Huang, and Junsen Zhang)
 
 ## Publications
 
