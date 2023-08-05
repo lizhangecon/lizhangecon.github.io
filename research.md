@@ -5,8 +5,8 @@ layout: page
 
 ## Working Papers
 
-1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**, with Naijia Guo and Ben Zou)
-2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with Lunyu Xie).
+1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**, with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
+2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
     - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
  
@@ -18,11 +18,11 @@ layout: page
     - <font size = 2>presented: 2023 AMES-Tsinghua (scheduled); 2023 WEAI International Conference; 2023 CES North American Conference*</font>
 3. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
     - <font size = 2>presented: 2023 CES Annual Conference* (scheduled); 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
-4. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with Suqin Ge, Naijia Guo, Zibin Huang, and Junsen Zhang)
+4. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
 
 ## Publications
 
-1. [Across a Few Prohibitive Miles: The Impact of the Anti-Poverty Relocation Program in China](https://doi.org/10.1016/j.jdeveco.2022.102945) (with Lunyu Xie and Xinye Zheng). 2023. **_Journal of Development Economics_**, 160, 102945.
+1. [Across a Few Prohibitive Miles: The Impact of the Anti-Poverty Relocation Program in China](https://doi.org/10.1016/j.jdeveco.2022.102945) (with Lunyu Xie and [Xinye Zheng](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/ZhengXinye/index.htm)). 2023. **_Journal of Development Economics_**, 160, 102945.
     - <font size = 2>previously circulated as "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"</font>
     - <font size = 2>presented: 2021 Asia Impact Evaluation Conference; Invited talk at BNU; 2020 AAEA Virtual Meeting; 2019 Symposium on Contemporary Labor Economics; 2019 Sustainable Development Goals</font>
 
