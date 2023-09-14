@@ -5,20 +5,19 @@ layout: page
 
 ## Working Papers
 
-1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**, with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
+1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**). _Draft available soon!_
 2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
     - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
- 
+3. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
+    - <font size = 2>presented: 2023 AMES-Tsinghua; 2023 WEAI International Conference; 2023 CES North American Conference*</font>
+4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
+    - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font> 
 
 ## Work in Progress
 
-1. Job Dynamics and Life-Cycle Wage Growth (with Naijia Guo and Ben Zou)
-2. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))
-    - <font size = 2>presented: 2023 AMES-Tsinghua; 2023 WEAI International Conference; 2023 CES North American Conference*</font>
-3. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)
-    - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
-4. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
+1. Job Dynamics and Life-Cycle Wage Growth (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
+2. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
 
 ## Publications
 
