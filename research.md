@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**). _Draft available soon!_
+1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**). _Draft coming soon!_
 2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
     - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
@@ -13,13 +13,13 @@ layout: page
       <summary>Abstract</summary>
       <font size = 2>A large and growing literature focuses on the causal impacts of elite education on students’ academic outcomes. Yet, current conclusions are contentious. To understand the heterogeneous impacts of elite education, this study utilizes a new empirical strategy based on the fact that the one-shot high school entrance exam (HSEE) in China generates sufficient variation in the academic ability of students even in a narrow bandwidth around the admission cutoff of entering elite high schools. Combining students’ performance on middle school final exams, the HSEE, and the college entrance exam (CEE) in a typical county in China, this study provides direct evidence that well-prepared students benefit more from elite high school education compared to under-prepared students. Peer effects partially explain the heterogeneous effect. Additionally, high-stakes exam results depend highly on one’s unobserved ability to handle such exams. These findings imply that using one-shot high-stakes exam results to allocate educational resources masks students’ actual preparation for elite education, resulting in a misallocation of educational resources.
 
-3. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))[[slides](https://drive.google.com/file/d/1TapCu4obIzGvAJnSSiCJqqbBiqPV9Nfb/view?usp=sharing)] _New draft available soon!_
+3. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))[[slides](https://drive.google.com/file/d/1TapCu4obIzGvAJnSSiCJqqbBiqPV9Nfb/view?usp=sharing)] _New draft coming soon!_
     - <font size = 2>presented: 2023 AMES-Tsinghua; 2023 WEAI International Conference; 2023 CES North American Conference*</font>
     <details>
       <summary>Abstract</summary>
       <font size = 2>Migration risks are an important barrier holding rural households back from allocating labor to urban areas. Existing literature suggests that rural households have better insurance against productivity risks and emphasizes the informal insurance network as a channel. This paper proposes local labor allocation as an alternative channel, highlighting the importance of diversified labor income sources and labor supply flexibility. Using unique and rich longitudinal data on rural households in China, we develop a formal test examining how rural households respond to both aggregate and idiosyncratic shocks and the role of migration in the risk-transmission process. 60.9% of risk insurance occurs during the transmission of agriculture income shock to total labor income, while the transmission of income shock to consumption accounts for 39.1%. This confirms that rural households respond to agricultural shocks by adjusting local labor allocation. We further support the results using annual fluctuations in weather as an exogenous agricultural productivity shock. Based on the empirical findings, we develop a dynamic model of location choice, sectoral labor allocation, and asset accumulation with borrowing constraints. We use the model to study the welfare effects of reducing moving barriers and relaxing borrowing constraints.
     
-4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)] _New draft available soon!_
+4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)] _New draft coming soon!_
     - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
     <details>
       <summary>Abstract</summary>
