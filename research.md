@@ -6,6 +6,7 @@ layout: page
 ## Working Papers
 
 1. Job Search and Wage Gaps between Migrants and Native Workers: Evidence from China (**Job Market Paper**). _Draft coming soon!_
+    - <font size = 2>presented: 2023 AASLE Annual Conference (scheduled)
 2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
     - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
