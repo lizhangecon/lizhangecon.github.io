@@ -32,7 +32,7 @@ layout: page
       <summary>Abstract</summary>
       <font size = 3>This study examines the impact of trade liberalization on intergenerational education mobility, focusing on China’s accession to the WTO. The negative impact of export tariff reduction on educational outcomes is greater for children from low-educated families than for those from high-educated families, resulting in reduced intergenerational education mobility. Estimations of intergenerational education elasticity also support this finding. This study proposes that the opportunity cost of education alone cannot explain the results and documents another non-negligible mechanism: parents’ time inputs. Parents may reduce their time and effort on children’s education to take new job opportunities created by trade liberalization, negatively affecting children’s early childhood development.</font>
     </details>
-    
+<br>
 
 ## Work in Progress
 
@@ -48,7 +48,7 @@ layout: page
       <summary>Abstract</summary>
       <font size = 3>Many households are confined to remote rural villages in the developing world. This study examines the Anti-Poverty Relocation Program in China, considering the village-to-town relocation from agricultural to non-agricultural sectors induced by the program. While exploring a novel administrative data set on impoverished people in a Chinese county, we discovered that the program significantly increased the participants’ income by 9.61%, driven mainly by the increase in wage income. The empirical findings are consistent with the Roy-model perspective, which states that rural households with comparative advantage in non-agricultural sectors could benefit from relocation to nearby towns. This study provides new evidence that mobility barriers across sectors exist even on a small geographic scale in rural areas. The results of the cost–benefit analysis suggest that relocation of households in remote rural areas is a feasible policy tool for overcoming such mobility barriers.</font>
     </details>
-    
+<br>  
 
 ### Pre-Doctoral Publications
 
