@@ -5,8 +5,12 @@ layout: page
 
 ## Working Papers
 
-1. Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting (**Job Market Paper**). _Draft coming soon!_
-    - <font size = 2>presented: 2023 AASLE Annual Conference (scheduled); 2023 HKEA Biennial Conference (scheduled); 2023 EWMES (scheduled)</font>
+1. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://drive.google.com/file/d/1qHTqixaR33Jc5GrlPOR-hN1XkfLc6aEE/view?usp=share_link) (**Job Market Paper**).
+    - <font size = 2>presented: 2023 EWMES (scheduled); 2023 HKEA Biennial Conference (scheduled); 2023 AASLE Annual Conference (scheduled) </font>
+    <details>
+      <summary>Abstract</summary>
+      <font size = 3>This study examines the factors contributing to the wage gap between migrants and natives, as well as the influence of internal mobility constraints on this gap. Using matched employer-employee panel data from a Chinese metropolis between 2006 and 2014, we estimate a two-way fixed effect wage model following Abowd, Kramarz, and Margolis (1999). Our decomposition analysis reveals that migrants tend to earn lower wages within the same employer and are less likely to be employed by companies offering high wage premiums. These two factors combined account for a 10 percentage-point difference in average wages between migrants and natives. Additionally, we investigate the impact of a policy change that restricted the "hukou" (household registration) quota to understand the mechanisms underlying the migrant-native wage gap. Following a one-third reduction in hukou quotas, we observe a narrowing of the negative wage gap, particularly in the private sector where significant quota reductions occurred, and among young migrants who have a higher demand for hukou. This effect is mainly driven by an increase in the wage premium paid by employers due to the unavailability of hukou. However, the shortage of hukou quotas exacerbates the misallocation of workers, making high-ability individuals more likely to work in low-productivity public sectors.</font>
+    </details>
 <br>
 
 2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
