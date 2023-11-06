@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-<img src="/profile_picture_small.JPG" width="246" height="344.5" align="left" >
+<img src="/profile_picture_small.JPG" width="246" height="344.5" align="left" style="float: left; margin-right: 20px;">
 
 ## Welcome to my page!
 
