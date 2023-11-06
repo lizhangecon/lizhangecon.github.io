@@ -11,7 +11,7 @@ Hi, I am Li Zhang (张力), a Ph.D. candidate in Economics at [The Chinese Unive
 
 My research interests lie in labor economics, development economics, and economics of education. 
     
-I will be on the 2023-24 job market.
+I am on the 2023-24 job market.
     
 **Contact:**
     
