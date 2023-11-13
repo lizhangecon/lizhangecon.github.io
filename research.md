@@ -18,7 +18,7 @@ layout: page
     - <font size = 2>presented: 2023 WEAI International Conference; 2022 AASLE Annual Conference; 2021 Symposium on Contemporary Labor Economics; 2021 CMES; 2021 CES Annual Conference</font>
     <details>
       <summary>Abstract</summary>
-      <font size = 3>The impact of elite education on academic outcomes is a topic of much debate. Utilizing the discontinuity in enrollment probability around the enrollment thresholds in high school entrance exam, this study estimates the heterogeneous effect of elite high schools on the college entrance exam results for students with different levels of academic preparation measured by their previous academic performance. Academically well-prepared students significantly benefit more from elite high schools than under-prepared students. Peer effects partially explain the heterogeneous effect. The results imply potential misallocation of resources when using one-shot high-stakes exams to allocate educational resources.</font>
+      <font size = 3>The impact of elite education on academic outcomes is a topic of much debate. Utilizing the discontinuity in enrollment probability around the enrollment thresholds in the high school entrance exams, this study estimates the heterogeneous effect of elite high schools on the college entrance exam results for students with different levels of academic preparation measured by their previous academic performance. Academically well-prepared students significantly benefit more from elite high schools than under-prepared students. Peer effects partially explain the heterogeneous effect. The results imply potential misallocation of resources when using one-shot high-stakes exams to allocate educational resources.</font>
     </details>
 <br>
 
