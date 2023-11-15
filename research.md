@@ -30,7 +30,7 @@ layout: page
     </details>
 <br>
     
-4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with Jingxuan Du)[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)] _New draft coming soon!_
+4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with [Jingxuan Du](https://sites.google.com/view/dujingxuan/home))[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)] _New draft coming soon!_
     - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
     <details>
       <summary>Abstract</summary>
