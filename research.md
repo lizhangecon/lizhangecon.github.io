@@ -6,7 +6,7 @@ layout: page
 ## Working Papers
 
 1. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://drive.google.com/file/d/1qHTqixaR33Jc5GrlPOR-hN1XkfLc6aEE/view?usp=share_link) (**Job Market Paper**).
-    - <font size = 2>presented: 2023 EWMES (scheduled); 2023 HKEA Biennial Conference (scheduled); 2023 AASLE Annual Conference (scheduled) </font>
+    - <font size = 2>presented: 2023 EWMES (scheduled); 2023 HKEA Biennial Conference (scheduled); 2023 AASLE Annual Conference (scheduled); Invited seminar at Jinan University </font>
     <details>
       <summary>Abstract</summary>
       <font size = 3>This study examines the factors contributing to the wage gap between migrants and natives, as well as the influence of internal mobility constraints on this gap. Using matched employer-employee panel data from a Chinese metropolis, I estimate a two-way fixed effect wage model and decompose the wage gap into group differences in skills, wage setting, and sorting. Decomposition analysis reveals that migrants tend to earn lower wages within the same employer and are less likely to be employed by companies offering high wage premiums. These two factors account for a 10 percentage-point wage penalty for migrants with comparative skills. Additionally, I investigate the impact of a policy change that restricted the "hukou" (household registration) quota to understand the mechanisms underlying the migrant-native wage gap. Following a one-third reduction in hukou quotas, wages of migrants increased relative to those of native workers, particularly in the private sector where significant quota reductions occurred, and among young migrants who have a higher demand for hukou. This effect is mainly driven by an increase in the wage premium paid by employers due to the unavailability of hukou. However, the tightening of hukou quota exacerbates the misallocation of workers, making high-ability migrants more likely to work in low-productivity public sectors.</font>
@@ -42,6 +42,7 @@ layout: page
 
 1. Job Dynamics and Life-Cycle Wage Growth (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
 2. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
+<br>
 
 ## Publications
 
@@ -56,8 +57,11 @@ layout: page
 
 ### Pre-Doctoral Publications
 
-1. 郑新业,王宇澄 & 张力.(2019).[政府部门间政策协调的理论和经验证据](http://www.cnki.com.cn/Article/CJFDTotal-JJYJ201910003.htm). **经济研究**(10),24-40.
-2. 郑新业,张力 & 张阳阳.(2019).[全球税收竞争与中国的政策选择](http://www.cnki.com.cn/Article/CJFDTOTAL-JJXD201902004.htm). **经济学动态**(02),31-46.
-3. 郑新业 & 张力.(2017).[财政“不可能三角”之可能](http://www.cnki.com.cn/Article/CJFDTOTAL-TSZM201709021.htm). **探索与争鸣**(09),108-116.
+1. Zheng, Xinye, Yucheng Wang, and Li Zhang. Coordination between Government Departments and the Allocation of Public Resources: Theory and Empirical Evidence (In Chinese). 2019. Economic Research Journal, 10, 24-40.
+    - <font size = 2>郑新业,王宇澄 & 张力.(2019).[政府部门间政策协调的理论和经验证据](http://www.cnki.com.cn/Article/CJFDTotal-JJYJ201910003.htm). **经济研究**(10),24-40.
+2. Zheng, Xinye, Li Zhang, and Yangyang Zhang. Global Tax Competition and China's Policy Choices (In Chinese). 2019. Economic Perspectives, 2, 31-46. 
+    - <font size = 2>郑新业,张力 & 张阳阳.(2019).[全球税收竞争与中国的政策选择](http://www.cnki.com.cn/Article/CJFDTOTAL-JJXD201902004.htm). **经济学动态**(02),31-46.
+3. Zheng, Xinye, and Li Zhang. The Possibilities in the Impossible Trinity of Fiscal Policy (In Chinese). 2017. Exploration and Free Views, 9, 108--116.
+    - <font size = 2>郑新业 & 张力.(2017).[财政“不可能三角”之可能](http://www.cnki.com.cn/Article/CJFDTOTAL-TSZM201709021.htm). **探索与争鸣**(09),108-116.
 
 <font size = 1> * presented by coauthor(s).
