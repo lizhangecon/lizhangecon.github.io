@@ -59,7 +59,7 @@ layout: page
 ### Pre-Doctoral Publications
 
 1. Zheng, Xinye, Yucheng Wang, and Li Zhang. Coordination between Government Departments and the Allocation of Public Resources: Theory and Empirical Evidence (In Chinese). 2019. Economic Research Journal, 10, 24-40.
-    - <font size = 2>郑新业,王宇澄 & 张力.(2019).[政府部门间政策协调的理论和经验证据](http://www.cnki.com.cn/Article/CJFDTotal-JJYJ201910003.htm). **经济研究**(10),24-40.</font>
+    - 郑新业,王宇澄 & 张力.(2019).[政府部门间政策协调的理论和经验证据](http://www.cnki.com.cn/Article/CJFDTotal-JJYJ201910003.htm). **经济研究**(10),24-40.
 2. Zheng, Xinye, Li Zhang, and Yangyang Zhang. Global Tax Competition and China's Policy Choices (In Chinese). 2019. Economic Perspectives, 2, 31-46. 
     - <font size = 2>郑新业,张力 & 张阳阳.(2019).[全球税收竞争与中国的政策选择](http://www.cnki.com.cn/Article/CJFDTOTAL-JJXD201902004.htm). **经济学动态**(02),31-46.</font>
 3. Zheng, Xinye, and Li Zhang. The Possibilities in the Impossible Trinity of Fiscal Policy (In Chinese). 2017. Exploration and Free Views, 9, 108--116.
