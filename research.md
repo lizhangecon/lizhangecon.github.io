@@ -42,6 +42,7 @@ layout: page
 
 1. Job Dynamics and Life-Cycle Wage Growth (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
 2. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
+
 <br>
 
 ## Publications
