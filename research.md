@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://drive.google.com/file/d/1qHTqixaR33Jc5GrlPOR-hN1XkfLc6aEE/view?usp=share_link) (**Job Market Paper**).
+1. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://lizhangecon.github.io/JMP_LiZhang.pdf) (**Job Market Paper**).
     - <font size = 2>presented: 2024 SOLE Annual Conference (scheduled); 2023 EWMES; 2023 HKEA Biennial Conference; 2023 AASLE Annual Conference; Invited seminar at Jinan University </font>
     <details>
       <summary>Abstract</summary>
