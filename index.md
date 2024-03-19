@@ -11,7 +11,7 @@ Hi, I am Li Zhang (张力), a Ph.D. candidate in Economics at [The Chinese Unive
 
 My research interests lie in labor economics, development economics, and economics of education. 
     
-I am on the 2023-24 job market.
+In the 2024-25 academic year, I will be a postdoctoral Research Fellow at the [Centre for Research and Analysis of Migration](https://cream-migration.org) (CReAM), University College London. In the 2025-26 academic year, I will be a Postdoctoral Fellow at the [ROCKWOOL Foundation Berlin](https://www.rfberlin.com) (RFBerlin).
     
 **Contact:**
     
