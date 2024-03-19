@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting (with Naijia Guo, Rongjie Zhang, Ben Zou). _New draft coming soon!_
+1. Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home), Rongjie Zhang, [Ben Zou](https://www.zouben.net)). _New draft coming soon!_
     - <font size = 2>presented: 2024 SOLE Annual Conference (scheduled); 2023 EWMES; 2023 HKEA Biennial Conference; 2023 AASLE Annual Conference; Invited seminar at Jinan University </font>
     <details>
       <summary>Abstract</summary>
@@ -40,7 +40,7 @@ layout: page
 
 ## Selected Work in Progress
 
-1. Job Dynamics and Life-Cycle Wage Growth (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home) and [Ben Zou](https://www.zouben.net))
+1. Job Dynamics and Life-Cycle Wage Growth (with Naijia Guo and Ben Zou)
 2. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
 
 <br>
