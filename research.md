@@ -11,7 +11,6 @@ layout: page
       <summary>Abstract</summary>
       <font size = 3>This study examines the factors contributing to the wage gap between migrants and natives, as well as the influence of internal mobility constraints on this gap. Using matched employer-employee panel data from a Chinese metropolis, I estimate a two-way fixed effect wage model and decompose the wage gap into group differences in skills, wage setting, and sorting. Decomposition analysis reveals that migrants tend to earn lower wages within the same employer and are less likely to be employed by companies offering high wage premiums. These two factors account for a 10 percentage-point wage penalty for migrants with comparative skills. Additionally, I investigate the impact of a policy change that restricted the "hukou" (household registration) quota to understand the mechanisms underlying the migrant-native wage gap. Following a one-third reduction in hukou quotas, wages of migrants increased relative to those of native workers, particularly in the private sector where significant quota reductions occurred, and among young migrants who have a higher demand for hukou. This effect is mainly driven by an increase in the wage premium paid by employers due to the unavailability of hukou. However, the tightening of hukou quota exacerbates the misallocation of workers, making high-ability migrants more likely to work in low-productivity public sectors.</font>
     </details>
-<br>
 
 2. [Is a Better School Better for All? Evidence from Elite Education in China](http://ssrn.com/abstract=4038574) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm)).
     - <font size = 2>2021 CES Annual Conference Best Student Paper: Honorable Mentions</font>
@@ -20,17 +19,15 @@ layout: page
       <summary>Abstract</summary>
       <font size = 3>The impact of elite education on academic outcomes is a topic of much debate. Utilizing the discontinuity in enrollment probability around the enrollment thresholds in the high school entrance exams, this study estimates the heterogeneous effect of elite high schools on the college entrance exam results for students with different levels of academic preparation measured by their previous academic performance. Academically well-prepared students significantly benefit more from elite high schools than under-prepared students. Peer effects partially explain the heterogeneous effect. The results imply potential misallocation of resources when using one-shot high-stakes exams to allocate educational resources.</font>
     </details>
-<br>
 
-3. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))[[slides](https://drive.google.com/file/d/1TapCu4obIzGvAJnSSiCJqqbBiqPV9Nfb/view?usp=sharing)] _New draft coming soon!_
+3. Rural Labor Allocation, Risk Insurance, and Temporary Migration (with [Yucheng Wang](https://yuchengwang.weebly.com))[[slides](https://drive.google.com/file/d/1TapCu4obIzGvAJnSSiCJqqbBiqPV9Nfb/view?usp=sharing)]
     - <font size = 2>presented: 2023 AMES-Tsinghua; 2023 WEAI International Conference; 2023 CES North American Conference*</font>
     <details>
       <summary>Abstract</summary>
       <font size = 3>Migration risks are an important barrier holding rural households back from allocating labor to urban areas. Existing literature suggests that rural households have better insurance against productivity risks and emphasizes the informal insurance network as a channel. This paper proposes local labor allocation as an alternative channel, highlighting the importance of diversified labor income sources and labor supply flexibility. Using unique and rich longitudinal data on rural households in China, we develop a formal test examining how rural households respond to both aggregate and idiosyncratic shocks and the role of migration in the risk-transmission process. 60.9% of risk insurance occurs during the transmission of agriculture income shock to total labor income, while the transmission of income shock to consumption accounts for 39.1%. This confirms that rural households respond to agricultural shocks by adjusting local labor allocation. We further support the results using annual fluctuations in weather as an exogenous agricultural productivity shock. Based on the empirical findings, we develop a dynamic model of location choice, sectoral labor allocation, and asset accumulation with borrowing constraints. We use the model to study the welfare effects of reducing moving barriers and relaxing borrowing constraints.</font>
     </details>
-<br>
     
-4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with [Jingxuan Du](https://sites.google.com/view/dujingxuan/home))[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)] _New draft coming soon!_
+4. Trade Liberalization and Intergenerational Education Mobility: Evidence from China (with [Jingxuan Du](https://sites.google.com/view/dujingxuan/home))[[slides](https://drive.google.com/file/d/1JthHzQEYFj9nMq0nu-ZMWESnb-nue5kV/view?usp=sharing)]
     - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
     <details>
       <summary>Abstract</summary>
