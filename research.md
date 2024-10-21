@@ -38,7 +38,7 @@ layout: page
 ## Selected Work in Progress
 
 1. Job Dynamics and Life-Cycle Wage Growth (with Naijia Guo and Ben Zou)
-2. Effect of Technology on Migration and Social Welfare in China: A General Equilibrium Approach (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
+2. Growing without Gentrification: The Impact of Technology Shocks on Low- and High-skilled Migration in China (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
    - <font size = 2>presented: 2024 AASLE (scheduled) </font>
 
 <br>
