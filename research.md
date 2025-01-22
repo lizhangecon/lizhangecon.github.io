@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home), Rongjie Zhang, [Ben Zou](https://www.zouben.net)). _New draft coming soon!_
+1. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092829) (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home), Rongjie Zhang, [Ben Zou](https://www.zouben.net)). 
     - <font size = 2>presented: RFBerlin-CReAM Workshop 2024; 2024 AMES; 2024 SOLE Annual Conference ; 2023 EWMES; 2023 HKEA Biennial Conference; 2023 AASLE Annual Conference; Invited seminar at Jinan University </font>
     <details>
       <summary>Abstract</summary>
@@ -38,8 +38,8 @@ layout: page
 ## Selected Work in Progress
 
 1. Job Dynamics and Life-Cycle Wage Growth (with Naijia Guo and Ben Zou)
-2. Growing without Gentrification: The Impact of Technology Shocks on Low- and High-skilled Migration in China (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
-   - <font size = 2>presented: 2024 AASLE (scheduled) </font>
+2. Growing without Divergence: The Impact of Innovation on Low- and High-skilled Migration in China (with [Suqin Ge](https://www.gesuqin.com), Naijia Guo, [Zibin Huang](https://www.zibinhuang.com), and [Junsen Zhang](https://person.zju.edu.cn/en/jszhang#942568))
+   - <font size = 2>presented: 2024 AASLE </font>
 
 <br>
 
