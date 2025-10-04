@@ -6,14 +6,14 @@ layout: page
 ## Working Papers
 
 1. Directed Technical Change Under Regulation: Evidence from the Chinese Auto Industry (with [Christian Dustmann](http://www.christiandustmann.com)). _**Job Market Paper**_. Draft available upon request.
-    - <font size = 2>presented: RFBerlin-CReAM Workshop 2025 </font>
+    - <font size = 2>presented: RFBerlin-CReAM Workshop 2025; BAMS-BSoE Welcome Event (scheduled); RFBerlin Brownbag Seminar (scheduled) </font>
     <details>
       <summary>Abstract</summary>
       <font size = 3>This paper studies the impacts of China's dual-credit policy (joint management of fuel consumption and new energy vehicle credits) on the electrification of the auto industry. Using a heterogeneous-firm model, newly assembled data, and difference-in-differences designs, we establish several findings. First, the policy significantly lowers the relative price of electric vehicles (EVs) compared with gasoline vehicles (GVs). Second, small firms reduce GV production to avoid credit obligations, while larger firms relatively increase it. Third, fuel economy improvement slows as EV production serves as a substitute compliance strategy. Fourth, cannibalization effect discourages incumbents to produce high-quality EVs while newcomers offer superior products. Fifth, innovation shifts toward EV and intelligence-related technologies, weakening path dependence. Finally, EV-focused firms hire more skilled labor and cluster in the most developed regions. Our findings highlight the positive role of the dual-credit policy in directing technical change towards electrification.</font>
     </details>
 
 2. [Migration Restrictions and the Migrant-Native Wage Gap: The Role of Wage Setting and Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092829) (with [Naijia Guo](https://sites.google.com/view/naijia-guo/home), [Rongjie Zhang](https://www.researchgate.net/profile/Rongjie-Zhang-6), [Ben Zou](https://www.zouben.net)). Revision requested by _**American Economic Review**_. 
-    - <font size = 2>An earlier version of this paper constituted the first chapter of my doctoral thesis.</font>
+    - <font size = 2>an earlier version of this paper constituted the first chapter of my doctoral thesis.</font>
     - <font size = 2>presented: RFBerlin-CReAM Workshop 2024; 2024 AMES; 2024 SOLE Annual Conference ; 2023 EWMES; 2023 HKEA Biennial Conference; 2023 AASLE Annual Conference; JNU; CUHK; ANU*; PKU*, RUC*; Shandong University*; University of Melbourne* </font>
     <details>
       <summary>Abstract</summary>
@@ -36,7 +36,7 @@ layout: page
     </details>
     
 5. [Trade Liberalization and Intergenerational Education Mobility: Evidence from China](https://ssrn.com/abstract=5274377) (with [Jingxuan Du](https://sites.google.com/view/dujingxuan/home)). Revision requested by _**Labour Economics**_.
-    - <font size = 2>presented: 2023 CES Annual Conference*; 2023 China Economics Annual Conference; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
+    - <font size = 2>presented: 2023 China Economics Annual Conference; 2023 CES Annual Conference*; 2023 CES North American Conference*; 2022 International Conference on The Chinese Economy*</font>
     <details>
       <summary>Abstract</summary>
       <font size = 3>This study examines the impact of trade liberalization on intergenerational education mobility, focusing on China’s accession to the WTO. The negative impact of export tariff reduction on educational outcomes is greater for children from low-educated families than for those from high-educated families, resulting in reduced intergenerational education mobility. Estimations of intergenerational education elasticity also support this finding. This study proposes that the opportunity cost of education alone cannot explain the results and documents another non-negligible mechanism: parents’ time inputs. Parents may reduce their time and effort on children’s education to take new job opportunities created by trade liberalization, negatively affecting children’s early childhood development.</font>
@@ -60,7 +60,7 @@ layout: page
 
 1. [Across a Few Prohibitive Miles: The Impact of the Anti-Poverty Relocation Program in China](https://doi.org/10.1016/j.jdeveco.2022.102945) (with [Lunyu Xie](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/XieLunyu/index.htm) and [Xinye Zheng](http://ae.ruc.edu.cn/home/People/Faculty/SortbyDepartment/EnergyEconomics/ZhengXinye/index.htm)). 2023. **_Journal of Development Economics_**, 160, 102945.
     - <font size = 2>previously circulated as "Moving to Opportunity: The Effects of the Targeted Poverty Alleviation Relocation Program in China"</font>
-    - <font size = 2>presented: 2021 Asia Impact Evaluation Conference; Invited seminar at Beijing Normal Univ.; 2020 AAEA Virtual Meeting; 2019 Symposium on Contemporary Labor Economics; 2019 Sustainable Development Goals</font>
+    - <font size = 2>presented: 2021 Asia Impact Evaluation Conference; Beijing Normal University; 2020 AAEA Virtual Meeting; 2019 Symposium on Contemporary Labor Economics; 2019 Sustainable Development Goals</font>
     <details>
       <summary>Abstract</summary>
       <font size = 3>Many households are confined to remote rural villages in the developing world. This study examines the Anti-Poverty Relocation Program in China, considering the village-to-town relocation from agricultural to non-agricultural sectors induced by the program. While exploring a novel administrative data set on impoverished people in a Chinese county, we discovered that the program significantly increased the participants’ income by 9.61%, driven mainly by the increase in wage income. The empirical findings are consistent with the Roy-model perspective, which states that rural households with comparative advantage in non-agricultural sectors could benefit from relocation to nearby towns. This study provides new evidence that mobility barriers across sectors exist even on a small geographic scale in rural areas. The results of the cost–benefit analysis suggest that relocation of households in remote rural areas is a feasible policy tool for overcoming such mobility barriers.</font>
