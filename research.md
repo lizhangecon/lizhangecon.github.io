@@ -5,7 +5,7 @@ layout: page
 
 ## Working Papers
 
-1. Directed Technical Change Under Regulation: Evidence from the Chinese Auto Industry (with [Christian Dustmann](http://www.christiandustmann.com)). _**Job Market Paper**_. Draft available upon request.
+1. [Directed Technical Change Under Regulation: Evidence from the Chinese Auto Industry](https://lizhangecon.github.io/JMP_LiZhang.pdf) (with [Christian Dustmann](http://www.christiandustmann.com)). _**Job Market Paper**_.
     - <font size = 2>presented: RFBerlin-CReAM Workshop 2025; BAMS-BSoE Welcome Event (scheduled); RFBerlin Brownbag Seminar (scheduled) </font>
     <details>
       <summary>Abstract</summary>
