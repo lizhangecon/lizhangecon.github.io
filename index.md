@@ -11,7 +11,7 @@ Hi, I am Li Zhang (张力), a Postdoctoral Research Fellow at the [ROCKWOOL Foun
 
 My research interests lie in labor economics, innovation, development economics, and economics of education. 
 
-I will be on the 2025-26 job market.
+I am on the 2025-26 job market.
     
 **Contact:**
 
