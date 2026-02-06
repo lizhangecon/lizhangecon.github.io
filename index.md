@@ -9,9 +9,7 @@ layout: page
 
 Hi, I am Li Zhang (张力), a Postdoctoral Research Fellow at the [ROCKWOOL Foundation Berlin](https://www.rfberlin.com) (RFBerlin). I received my Ph.D. in Economics from [The Chinese University of Hong Kong](https://www.econ.cuhk.edu.hk) (CUHK) in 2024 and obtained my Bachelor's and Master's Degrees in Economics from [Renmin University of China](https://ae.ruc.edu.cn) (RUC). Before joining RFBerlin, I worked as a Postdoctoral Research Fellow at the [Centre for Research and Analysis of Migration](https://www.cream-migration.org) (CReAM) at [University College London](https://www.ucl.ac.uk/social-historical-sciences/economics) (UCL).
 
-My research interests lie in labor economics, innovation, development economics, and economics of education. 
-
-I am on the 2025-26 job market.
+My research interests lie in labor economics, innovation, development economics, and economics of education.
     
 **Contact:**
 
