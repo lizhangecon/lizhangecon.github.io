@@ -15,6 +15,6 @@ My research interests include labor economics, innovation, development economics
 
 [lizhang@um.edu.mo](mailto:lizhang@um.edu.mo)
     
-Room 1026, Faculty of Business Administration,
-University of Macau, E22,
+Room 1026, Faculty of Business Administration (E22),
+University of Macau,
 Avenida da Universidade, Taipa, Macau, China
