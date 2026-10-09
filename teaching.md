@@ -17,4 +17,10 @@ layout: page
 2. ECON 1010 Perspectives in Economics, Fall 2021-22
 3. ECON 3320 Asia-Pacific Economies, Spring 2020-21
 
-<font size = 1> * Credits to [Paul Goldsmith-Pinkham](https://paulgp.com), [Zibin Huang](https://www.zibinhuang.com), and [Junjian Yi](https://sites.google.com/view/junjianyi/home).
+<small>
+* Credits to
+<a href="https://paulgp.com">Paul Goldsmith-Pinkham</a>,
+<a href="https://www.zibinhuang.com">Zibin Huang</a>,
+and
+<a href="https://sites.google.com/view/junjianyi/home">Junjian Yi</a>.
+</small>
